@@ -1,0 +1,34 @@
+/* color pochita #d97441 */
+
+.contenedor{
+    width: 100vw;
+    height: 100vh;
+    background-color: aqua;
+}
+
+.nav{
+    height: 10%;
+    background-color: black;
+}
+
+.cuerpo{
+    
+    height: 90%;
+    
+}
+.navbar{
+    width: 100%;
+    }
+
+.row {
+    padding-left: 130px;
+}
+    
+    
+#carrito{
+        padding-left: 600px;
+    }
+
+.row {
+    padding-top: 200px;
+}

@@ -1,0 +1,53 @@
+.contenedor{
+    width: 100vw;
+    height: 100vh;
+    background-color: aqua;
+   
+}
+
+.nav{
+    height: 10%;
+    background-color: black;
+    
+}
+
+.cuerpo{
+    height: 90%;
+    background-color: #b954b4;
+
+}
+
+#anya{
+    width: 250px;
+    height: 140px;
+    padding: 0%;
+    margin: none;
+    
+}
+
+.navbar{
+width: 100%;
+}
+
+#carrito{
+    padding-left: 600px;
+}
+
+.compra{
+    width: 150px;
+    height: 100px;
+    margin: 2px;
+}
+
+.carrito2{
+    align-items: center;
+    width: 80%;
+    margin: auto; 
+    
+}
+
+a:hover{
+text-decoration: none;
+}
+
+a{text-decoration: none;}

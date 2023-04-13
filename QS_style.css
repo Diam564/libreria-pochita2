@@ -1,0 +1,28 @@
+.contenedor{
+    width: 100vw;
+    height: 100vh;
+}
+
+.nav{
+    height: 10%;
+    background-color: black;
+}
+
+.cuerpo{
+    height: 90%;
+    background-color: rgb(227, 192, 255);
+
+}
+.navbar{
+    width: 100%;
+    }
+    
+#carrito{
+        padding-left: 600px;
+    }
+
+.cartaquienessomos {
+    background-color: white;
+    margin: 30px;
+    background-image: url("img/gold-stars-scattering-cut-out-png.webp");
+}

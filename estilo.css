@@ -1,0 +1,45 @@
+.contenedor{
+    width: 100vw;
+    height: 100vh;
+    
+    
+}
+
+.nav{
+    height: 10%;
+    
+}
+
+.cuerpo{
+    height: 90%;
+    background-color: rgb(227, 192, 255);
+
+}
+
+
+.navbar{
+width: 100%;
+}
+
+#carrito{
+    padding-left: 600px;
+}
+
+.container{
+    width: 100vh;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 10px;
+    height: auto;
+}
+.row{
+    padding-top: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.card-img-top{
+    width: 5vh;
+    height: 30vh;
+    padding: 15px;
+
+}
